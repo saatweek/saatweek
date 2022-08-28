@@ -1,7 +1,8 @@
 
 ![Welcome Image](https://github.com/saatweek/saatweek/blob/main/Vanilla-3.3s-288px.svg)
-
-I'm Satwik! (In case, you couldn't guess from the gif right above :satisfied:)
+Welcome! 
+<br />And a massive ***Thank You*** for visiting my page. You can check out my most recent projects
+I'm Satwik!
 <br />I'm a Computer Science Student, currently studying in [Institute of Technical Education and Reasearch, Bhubaneswar](https://www.soa.ac.in/iter) (Batch of 2022)
 <br />
 
