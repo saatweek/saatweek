@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Vanilla-2 9s-271px](https://user-images.githubusercontent.com/43529908/98463402-0890d600-21e1-11eb-845f-7d5f1fc91d78.gif)
+![Vanilla-2 9s-271px](https://github.com/saatweek/saatweek/blob/main/Vanilla-3.3s-288px.svg)
 
 I'm Satwik! (In case, you couldn't guess from the gif right above :satisfied:)
 <br />I'm a Computer Science Student, currently studying in [Institute of Technical Education and Reasearch, Bhubaneswar](https://www.soa.ac.in/iter) (Batch of 2022)
