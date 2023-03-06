@@ -11,7 +11,7 @@
 I'm passionate about research and teaching, especially in the field of Deep Learning.
 <br />Each project therefore, is an attempt to understand and teach my fellow coders about the theory and execution of that particular project.
 <br />
-<br />As if that wasn't already enough, I also try to maintain a blog, [Algos Expeditus](https://algosexpeditus.blogspot.com/) (where Algos is just short for Algorithms and Expeditus is Latin for Explained.) 
+<br />As if that wasn't already enough, I also try to maintain a blog, [Algos Expeditus](https://saatweek.com) (where Algos is just short for Algorithms and Expeditus is Latin for Explained.) 
 <br />I cover a variety of topics here as well. So be sure to check it out too! 
 <br />
 <br />
