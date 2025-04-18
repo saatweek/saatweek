@@ -1,34 +1,16 @@
 
 ![Welcome Image](https://github.com/saatweek/saatweek/blob/main/Vanilla-3.3s-288px.svg)
 
-<br />And ***Thank You*** for visiting my page.
-<br />Allow me to introduce myself.
-<br />
-<br /> I'm Satwik
-<br />I'm a data scientist and a Machine Learning Enginner. I graduated from [California State University, East Bay](https://www.csueastbay.edu) with a Master's degree in Statistics (Data Science Concentration) + I also have a Bachelor's degree in Computer Science.
+# 👋 Hi, I'm Satwik (aka seven)
 
+I'm a developer and ML tinkerer who enjoys working on systems that learn from data. Most of my recent work explores forecasting, unsupervised learning, and building efficient models from scratch.
 
-I **LOVE** storytelling (and solving problems!)
-<br />Each repository therefore, is an attempt to answer/solve any question/problems I've faced personally. Sometimes these are small problems I've faced personally (like not being able to download files efficiently) and sometimes they are big projects that question our understanding of life and consciousness itself. And sometimes they can be as simple as a demonstration of something cool I learnt.
-<br />
-<br />Apart from this GitHub, I also maintain a blog ([Algos Expeditus](https://saatweek.com)), play guitar, paint, sketch, travel and read books.
-<br />
-<br />
-I'm currently looking for new opportunities (preferrably for roles in Data Science and Machine Learning).
-<br />
-So, if you have any roles for me, or even if you have any suggestions/criticisms, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/saatweek/)
+Outside of that, I’m interested in anything that blends software with science—whether that’s modeling the real world, visualizing it, or optimizing how we interact with it.
 
-<!--
-**saatweek/saatweek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 _Check out my pinned repositories below for some of the things I’ve built._
 
-Here are some ideas to get you started:
+## 📫 Let’s Connect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- GitHub: [github.com/saatweek](https://github.com/saatweek)
+- LinkedIn: [linkedin.com/in/saatweek](https://www.linkedin.com/in/saatweek/)
+- Email: your.email@domain.com
