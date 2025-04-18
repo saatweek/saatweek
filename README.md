@@ -11,6 +11,5 @@ Outside of that, I’m interested in anything that blends software with science�
 
 ## 📫 Let’s Connect
 
-- GitHub: [github.com/saatweek](https://github.com/saatweek)
 - LinkedIn: [linkedin.com/in/saatweek](https://www.linkedin.com/in/saatweek/)
-- Email: your.email@domain.com
+- Email: satwikbehera12@gmail.com
